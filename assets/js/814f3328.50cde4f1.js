@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabangfunny=self.webpackChunkabangfunny||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6211\u7684\u804c\u4e1a\u751f\u6daf","permalink":"/blog/get-things-done"},{"title":"\u6211\u7684\u804c\u4e1a\u751f\u6daf","permalink":"/blog/my-software-career"}]}')}}]);
