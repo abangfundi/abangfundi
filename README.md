@@ -1,10 +1,10 @@
 # Hello World
 
-- 👋 Hi, I’m @abangfunny
+- 👋 Hi, I’m @abangfundi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C language and Operating System
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  email to <abang@abang.fun>
+- 📫 How to reach me:  email to <alan.bang@outlook.com>
 
 <!---
 abangfunny/abangfunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
