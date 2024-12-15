@@ -2,14 +2,14 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 
-const {themes} = require('prism-react-renderer');
+const { themes } = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Alan Bang',
-  tagline: 'Docusaurus are cool',
+  tagline: 'Just For Fun',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,9 +66,13 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            to: '/blog',
+            label: 'Blog',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/abangfundi',
             label: 'GitHub',
             position: 'right',
           },
@@ -81,16 +85,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Blog',
+                to: '/blog',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/abangfundi',
               },
             ],
           },
@@ -98,17 +98,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
+                label: 'Built with Docusaurus',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Alan Bang.`,
       },
       prism: {
         theme: lightCodeTheme,
