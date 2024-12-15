@@ -1,5 +1,5 @@
 ---
-slug: my-software-career
+slug: 2023-08-20-my-software-career
 title: 我的职业生涯
 authors: [abangfundi]
 tags: []
