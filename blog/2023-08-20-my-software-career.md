@@ -1,7 +1,7 @@
 ---
 slug: my-software-career
 title: 我的职业生涯
-authors: [abang]
+authors: [abangfundi]
 tags: []
 ---
 

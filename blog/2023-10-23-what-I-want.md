@@ -1,7 +1,7 @@
 ---
 slug: what-I-want-about-repository
 title: 我想要的是什么
-authors: [abang]
+authors: [abangfundi]
 tags: []
 ---
 
