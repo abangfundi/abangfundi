@@ -8,7 +8,7 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Alan Bangbang',
+  title: 'Alan Bang',
   tagline: 'Docusaurus are cool',
   favicon: 'img/favicon.ico',
 
@@ -59,10 +59,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Alan Bangbang',
+        title: 'Alan Bang',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
