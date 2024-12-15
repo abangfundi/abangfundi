@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabangfundi=self.webpackChunkabangfundi||[]).push([[121],{8070:a=>{a.exports=JSON.parse('{"tags":[{"label":"macOS","permalink":"/blog/tags/mac-os","count":3},{"label":"computer","permalink":"/blog/tags/computer","count":1}]}')}}]);

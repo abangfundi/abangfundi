@@ -4,20 +4,68 @@
         <title>Alan Bang Blog</title>
         <link>https://abang.fun/blog</link>
         <description>Alan Bang Blog</description>
-        <lastBuildDate>Mon, 23 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[我想要的是什么]]></title>
-            <link>https://abang.fun/blog/what-I-want-about-repository</link>
-            <guid>https://abang.fun/blog/what-I-want-about-repository</guid>
+            <title><![CDATA[我的电脑故事]]></title>
+            <link>https://abang.fun/blog/2024-11-24-my-computer-story</link>
+            <guid>https://abang.fun/blog/2024-11-24-my-computer-story</guid>
+            <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[先交代一下我的过往经历，给大家一个参考。]]></description>
+            <content:encoded><![CDATA[<p>先交代一下我的过往经历，给大家一个参考。</p>
+<ul>
+<li>1998～2004 小学</li>
+<li>2004～2007 初中</li>
+<li>2007～2011 高中（复读一年）</li>
+<li>2011～2015 大学</li>
+<li>2015～至今 工作，一个被Web后端/Web前端/Flutter App玩弄的全干程序员。</li>
+</ul>
+<blockquote>
+<p>这篇文章，本来想写一下自己的编程之路，写着写着，感觉自己的编程经历并没有什么好写的，就编程了自己跟计算机的故事了。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="小学">小学<a href="https://abang.fun/blog/2024-11-24-my-computer-story#%E5%B0%8F%E5%AD%A6" class="hash-link" aria-label="Direct link to 小学" title="Direct link to 小学">​</a></h2>
+<p>小时候比较淘气，爱拆电子设备，手表、收音机、电视机等，但只是看看内部结构，鼓捣一顿，也没研究出个所以然来，甚至去县城参加中考时住在舅妈家，临走的时候舅妈给了我几台表姐用过的随身听、学习机之类的设备，还不忘调侃说“记得你小时候爱拆这些设备，送给你回去拆着玩吧”。</p>
+<p>然后到现在好像对这些东西也只是停留在表面，现在想要研究更深层的东西。</p>
+<p>在农村上小学，没有接触过那么多资源，上五年级的时候，有一次校园里开进来两辆拖拉机，后面用防雨布罩着，里面装着几十台台式机，当老师宣布接下来两天会让我们上机训练，同学们都狂喜。五六年级两个班分享这两天时间，后来总是在期待拖拉机的到来，差不多一学期能来两次，这应该是第一次接触电脑，里面运行着 Windows95、98系统，老师会讲一下基本的使用：我的电脑、网上邻居、回收站、WPS文档、键盘指法、复制粘贴剪切这些东西；同学们在下面偷偷地玩扫雷、纸牌。纸牌比较简单，看看能明白规则，扫雷大家都不知道啥规则，我是上了大学，才在室友的感召下学会了扫雷，其他同学都在玩LOL，我们在扫雷。当时有的电脑上还装了一些好玩的游戏，印象比较深的一个叫 “潜艇大战”。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="初中">初中<a href="https://abang.fun/blog/2024-11-24-my-computer-story#%E5%88%9D%E4%B8%AD" class="hash-link" aria-label="Direct link to 初中" title="Direct link to 初中">​</a></h2>
+<p>初中时段，在镇上上学，学校有了微机室，课程没什么特别之处，老师还是从头讲，多了一些 Office 三大件的学习。老师办公室里有一两台电脑，有的同学半夜或者周末会潜入到老师办公室玩游戏，大话西游之类的。</p>
+<p>07年夏天初中毕业，求着家里花了四千块大洋吧，买了一台电脑。当时跟爸妈说，书上说了，有了电脑就可以上网、打电话、看电视、什么事都能做了。</p>
+<p>回到家才知道我们村子竟然没有宽带，只有拨号上网，联通先给了一个10010的测试账号，看看能不能用。回来试试还不行，后来找到卖电脑的，人家说得需要用拨号上网用的内置猫，而不是宽带用的猫，又花了一百多买了一个内置猫，换上就可以了。</p>
+<p>真是锻炼了我的耐性，网速贼慢，打开网页要半天，下载一首歌要一个小时，《隐形的翅膀》和《该死的温柔》记忆犹新。而且拨号上网时，电话就会一直占线，体验贼差，好在上网费好像不贵，一个月十块钱吧。（伏笔）</p>
+<p>只能浏览一些网页，下载了一些高中用的词汇，编辑成文档，第一次不知道，用记事本编辑的，发到邮箱里，去镇上打印店打印，结果格式全没有，人家说要用word文档，好吧。然后就趁着打印店网速快，在人家电脑上会儿网，后来手欠从开始菜单里，打开了Microsoft Media Player，好像是什么内容啊，我还没看清楚，打印店老板赶紧跑过来关掉，说不要随便动别人电脑啦。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="高中">高中<a href="https://abang.fun/blog/2024-11-24-my-computer-story#%E9%AB%98%E4%B8%AD" class="hash-link" aria-label="Direct link to 高中" title="Direct link to 高中">​</a></h2>
+<p>后来暑假结束，高中开学了。我爸就去营业厅把网停了，高中一个月回家一次，打开电脑，联通的10010的测试账号，还能用，上会儿网。高中注册过很多个QQ，为啥呢，一个月不用，腾讯就把号给消掉了，每次回家都新注册。</p>
+<p>2008年 北京奥运会在北京开幕，正直高一暑假</p>
+<p>我爸呢是一个脾气特别好的人，从来没见过他大声说话，小时候教育我都是我妈上。这次是见过我爸第一次也是唯一一次生气，差点儿从椅子上跳起来，但他还是忍住了。原因是什么呢，我们家平时的话费每个月也就几块十几块钱吧，不太记得了反正不多，那年暑假在家，打电话查询话费时，电话里告知欠费700多块钱，惊呆了。</p>
+<p>怎么回事儿呢，就是我用10010测试账号上网了一个月，原来以为是免费的，结果全按拨打电话时长计费了。</p>
+<p>配置和价格。当年买电脑的时候也没做好了解，也没有信息，不知去什么地方买，去了县城里一家卖家电的地方，听人家一顿忽悠就买了当时他们店里配置最低的一台。当年四千块的什么配置呢，海尔的、CPU不记得了、内存256M、硬盘80G；他们那儿的性价比一点都不高。后来想升级一下内存，人家说你这内存是DDR1代的，早就没有了，是啊08年都DDR3了。</p>
+<p>后来就想学编程，搜了半天下载了个VB6.0，<a href="https://wenwen.sogou.com/question/q205637253.htm" target="_blank" rel="noopener noreferrer">还去网上问安装序列号</a>，只是装上了，也没有资料，没有后续。</p>
+<p>吐槽一下当年的盗版Windows啊，各种魔改，很多自带的软件，比如Office，基本功能能用，无法升级无法卸载，操作系统、软件的帮助文档完全缺失。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="大学">大学<a href="https://abang.fun/blog/2024-11-24-my-computer-story#%E5%A4%A7%E5%AD%A6" class="hash-link" aria-label="Direct link to 大学" title="Direct link to 大学">​</a></h2>
+<p>在长沙的苏宁易购，买了一台 Toshiba Satellite 笔记本电脑，配置算是当时的正常水平，也是花了四千块钱，用了四年吧，后来有些卡，升级了内存感觉没有效果，当时还不知道固态硬盘可以很有效的提升响应速度，后来在爱回收仅卖了400块钱。</p>
+<p>大学的时候折腾了几种Linux系统，最爱的还是Ubuntu，跟谢尔顿一样。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="工作以后">工作以后<a href="https://abang.fun/blog/2024-11-24-my-computer-story#%E5%B7%A5%E4%BD%9C%E4%BB%A5%E5%90%8E" class="hash-link" aria-label="Direct link to 工作以后" title="Direct link to 工作以后">​</a></h2>
+<p>2015年，买了一台2015款15寸的MacBook Pro，4代i7处理器、16G内存、256G固态硬盘。在苏宁网上买的，花了13288，用了七八年吧，电池鼓包了，在苹果店花了1500换了电池。现在用起来还凑合，macOS最高能升级到12，不给升级了，装个Windows10也还可以。今年老妹上大学送给她先用着。</p>
+<p>2024年，刚入手了一台16寸的MacBook Pro，M4 Pro处理器、48G内存、1T固态硬盘。</p>
+<blockquote>
+<p>我和计算机的故事就是这么简单和肤浅，沉下心来，做点什么有意思的事情吧。</p>
+</blockquote>
+<p>Peace and Love.</p>]]></content:encoded>
+            <category>macOS</category>
+            <category>computer</category>
+        </item>
+        <item>
+            <title><![CDATA[关于知识库，我想要的是什么]]></title>
+            <link>https://abang.fun/blog/2023-10-23-what-I-want-about-a-knowledge-base</link>
+            <guid>https://abang.fun/blog/2023-10-23-what-I-want-about-a-knowledge-base</guid>
             <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[心里想的太多了，为什么每次都是在反思自己要做什么，而不是在分享自己做了什么。]]></description>
             <content:encoded><![CDATA[<p>心里想的太多了，为什么每次都是在反思自己要做什么，而不是在分享自己做了什么。
 不过还是要反思，要不然怎么进步，虽然现在还是在原地打转，但至少在转，而没有停下来。</p>
 <p>关于知识的整理，一直是杂乱的，不知道记在什么地方。
-其实当年的Gitbook还是挺好的一个工具，在一个git仓库里，只有纯粹的内容文件，没有杂七杂八的支持文件，比如package.json,node_modules等等这些，只需要一个命令就可以进行构建，预览等等，cli是按照到global目录下的；而且还提供了GUI的编辑器，类似现在的Typora吧。当然也有一些不足的地方，比如首页目录的展示也是markdown文件，配置起来有些乏力。</p>
+其实当年的Gitbook还是挺好的一个工具，在一个git仓库里，只有纯粹的内容文件，没有杂七杂八的支持文件，比如package.json,node_modules等等这些，只需要一个命令就可以进行构建，预览等等，cli是按装到global目录下的；而且还提供了GUI的编辑器，类似现在的Typora吧。当然也有一些不足的地方，比如首页目录的展示也是markdown文件，配置起来有些乏力。</p>
 <p>我想做的是可以是基于文件系统的数据库系统，每个文件夹是一个仓库，也是一个数据库，可以便于用git管理，git可以跟踪到文件内容的变更。纯文本文件为什么乏力呢，文件系统只提供了简单的文件名和文件内容两个属性吧，可能还有文件创建修改日期等，仅此而已，日期还会经常改变，复制到另一台电脑上，日期就变成了当前时间。为了弥补这个不足，现在用的这个Docusaurus和hexo等，都是在markdown文件的头部有一些配置项之类的部分，叫做Front-matter？如下所示，这部分当然是放在文件内容中的。</p>
 <div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">title: Hello World</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">date: 2023/7/13 20:46:25</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>如果用数据库的形式，最简单的方式可能是json/yaml等格式化文本，来保持每个文件的属性，就可以解放正文内容的部分，正文就可以单纯的去写文章了。用这种方式也便于扩展属性，当然它也有自己的不足，比如文档的属性与正文就分离开了，需要去不同的地方编辑，这时就需要一个可视化的编辑器来支持了。就类似，我们使用sql或者可视化IDE来编辑数据库内容一样，底层的数据是如何存储的我们并不关心。</p>
@@ -31,8 +79,8 @@
         </item>
         <item>
             <title><![CDATA[我的职业生涯]]></title>
-            <link>https://abang.fun/blog/my-software-career</link>
-            <guid>https://abang.fun/blog/my-software-career</guid>
+            <link>https://abang.fun/blog/2023-08-20-my-software-career</link>
+            <guid>https://abang.fun/blog/2023-08-20-my-software-career</guid>
             <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[从事软件开发行业也已经8年的时间，感觉自己一直是个“半吊子”，我去查了一下半吊子的含义，好像第二条和第三条复合我现在的状态。]]></description>
             <content:encoded><![CDATA[<p>从事软件开发行业也已经8年的时间，感觉自己一直是个“半吊子”，我去查了一下半吊子的含义，好像第二条和第三条复合我现在的状态。</p>
@@ -48,6 +96,79 @@
 <p>想学习的东西很多，精力又有限，而且没有规划和耐力，导致一事无成。</p>
 <p>最近在学习极客时间上的《软件工程之美》课程，其中有句话是“做任何事情，都把它当成一个项目来认真对待。”</p>
 <p>从今天开始，认真对待自己的时间，认真理解读的每一本书，认真对待做的每一个项目。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[macOS 装机配置]]></title>
+            <link>https://abang.fun/blog/2023-06-11-macos-installation-configuration</link>
+            <guid>https://abang.fun/blog/2023-06-11-macos-installation-configuration</guid>
+            <pubDate>Sun, 11 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[上次（2023.06.07）说了自己重新在 MacBook Pro 2015 上重新安装了 macOS 10.15 ，所以又重新折腾了一番]]></description>
+            <content:encoded><![CDATA[<p>上次（2023.06.07）说了自己重新在 MacBook Pro 2015 上重新安装了 macOS 10.15 ，所以又重新折腾了一番</p>
+<p>作为一个程序员我的 macOS 配置还是比较简单的，网上有比较多的教程是 <code>iTerm2 oh-my-zsh Powerlevel10k</code> 等，配置出来会比较实用/花哨/美观/护眼等，大家可以上网搜索，然后根据自己的喜好来设置，这个后续我有时间，也会再完善，目前只能完成最基本的配置。</p>
+<ol>
+<li>第一步从 App Store 下载应用，这是最简单的，不会出什么幺蛾子，如果是新用户，下载一些必备的 app， 如果是老用户，点击左下角的用户名，进入的就是账户，里面最主要的内容就是 <code>Purchased</code> 你自己的已经安装过的 应用列表，从这里直接找到你之前用的软件是最快的。像我降级老版本 macOS，正常的 app 详情页安装时，提示系统不支持，（也只能？）在这里才能安装旧版本支持当前系统的软件；从 App Store 安装的软件有<!-- -->
+<ul>
+<li>XCode</li>
+<li>WeChat, QQ, QQMusic</li>
+<li>Pages, Numbers, Keynote, The Unarchiver</li>
+<li>OneDrive, OutLook</li>
+<li>XMind</li>
+<li>Sequel Ace (一款免费的 MySQL 客户端)</li>
+<li>iShot 截图软件</li>
+<li>Magnet 一键调整 App 窗口大小</li>
+<li>Manico 一键打开/切换 App</li>
+</ul>
+</li>
+<li><a href="https://www.microsoft.com/en-us/edge/download" target="_blank" rel="noopener noreferrer">安装 Edge 浏览器</a></li>
+<li><a href="https://iterm2.com/" target="_blank" rel="noopener noreferrer">安装 iTerm</a>  下载解压后拖进 <code>/Applications</code></li>
+<li>Command Line Tools for Xcode 在 iTerm 中执行 <code>xcode-select --install</code> （可选，下一步安装 HomeBrew 的过程中，也会安装 Command Line Tools for Xcode）</li>
+<li><a href="https://brew.sh/" target="_blank" rel="noopener noreferrer">安装 HomeBrew</a></li>
+<li>然后使用brew 安装必要的开发软件<!-- -->
+<ol>
+<li><code>brew install python python@3.10 python@3.8</code> ...安装自己需要的版本</li>
+<li><code>brew install go go@1.19 go@1.18</code> ...安装自己需要的版本</li>
+<li><code>brew install node@18 node@16</code> ...安装自己需要的版本</li>
+<li><code>brew install ruby@2.7</code> ...安装自己需要的版本</li>
+<li><code>brew install git</code>   一般就是最新版</li>
+</ol>
+</li>
+<li><a href="https://ohmyz.sh/" target="_blank" rel="noopener noreferrer">安装 Oh My ZSH</a></li>
+<li><a href="https://code.visualstudio.com/download" target="_blank" rel="noopener noreferrer">安装 VSCode</a> 下载解压后拖进 <code>/Applications</code></li>
+<li>安装 git 可视化工具： <a href="https://gitup.co/" target="_blank" rel="noopener noreferrer">GitUp</a>  或者 <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noopener noreferrer">SourceTree</a> 等，下载解压后拖进 <code>/Applications</code></li>
+<li>配置 git alias 别名，已然习惯了缩写 <code>g s</code>, <code>g c</code> 等，<a href="https://github.com/GitAlias/gitalias" target="_blank" rel="noopener noreferrer">参考</a></li>
+</ol>
+<p>差不多就这些，比较基础，没有啥花里胡哨的，以后再补充。</p>
+<p>顺便说一下我对于盗版软件的看法</p>
+<p>作为一个 software developer ，不希望自己的软件被盗用、网站被攻击，将心比心，我也是别人的劳动成果的。
+很久以前确实使用过一些盗版软件，比如盗版Windows、VC6.0、AutoCAD 等，这些大型软件实在也买不起，用的也不多；后来（毕业后吧）所有软件都是有授权才使用的，免费或者付费购买的。
+我感觉部分付费软件定价超过了它本身的价值，虽然不爽，但是我尊重人家的劳动成功、定价和版权，大不了就不用呗。
+比如 JetBrains 全家桶, Adobe PhotoShop, Navicat 等；
+使用替代方案就是 VSCode, Pixelmator Pro, Sequel Ace, DBeaver 等。</p>
+<p>就这样</p>
+<p>Peace And Love.</p>]]></content:encoded>
+            <category>macOS</category>
+        </item>
+        <item>
+            <title><![CDATA[在 2023 年又重新用上 macOS 10.15]]></title>
+            <link>https://abang.fun/blog/2023-06-07-use-macOS-10.15-in-2023</link>
+            <guid>https://abang.fun/blog/2023-06-07-use-macOS-10.15-in-2023</guid>
+            <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天是2023年06月07日，高考的日子，祝天下所有的考生考试顺利～～]]></description>
+            <content:encoded><![CDATA[<p>今天是2023年06月07日，高考的日子，祝天下所有的考生考试顺利～～</p>
+<p>2015年买的 MacBook Pro 15 英寸，本来想装一个 Windows 系统做备用机，但实在用不习惯了，感觉也没什么用处，装回了 macOS ，但是记得之前用macOS 11 or 12 感觉有点儿卡，所以这次装回了 macOS 10.15 Catalina，用起来感觉还不错。</p>
+<ul>
+<li>操作很流畅，比 macOS 11 或 12 更流畅，发热也轻一些，电池也更耐用</li>
+<li>风格也还行，比较喜欢的小圆角设计，从 Big Sur 开始的圆角有些太大了</li>
+<li>新的软件版本有一些不支持了，不过从 App Store 的购买记录里，可以下载历史版本</li>
+<li>而没上架应用商店的第三方 app 一般都是支持10.15的，所以问题不大</li>
+<li>除了做 iOS/macOS 等 app 开发的需求不太能满足，其他的开发 web、后端开发都能满足</li>
+</ul>
+<p>目前感觉唯一的缺憾是 <code>HomeBrew</code>，每次使用都会提示</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Warning: You are using macOS 10.15.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">We (and Apple) do not provide support for this old version.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">It is expected behaviour that some formulae will fail to build in this old version.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">It is expected behaviour that Homebrew will be buggy and slow.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Do not create any issues about this on Homebrew's GitHub repositories.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Do not create any issues even if you think this message is unrelated.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Any opened issues will be immediately closed without response.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Do not ask for help from Homebrew or its maintainers on social media.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">You may ask for help in Homebrew's discussions but are unlikely to receive a response.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Try to figure out the problem yourself and submit a fix as a pull request.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">We will review it but may or may not accept it.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>然后按照应用的时候，都会在本地编译构建安装，着实费时，也让电脑发热严重。比如，安装个 <code>Node.js</code>，耗时一个多小时</p>
+<p>或许这能治好我乱装东西的毛病，也挺好🤣</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">$ brew install node@18</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">...</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">==&gt; Fetching dependencies for node@18: python@3.11, brotli, cmake, c-ares, icu4c, libnghttp2, m4, autoconf, automake, libtool, docutils, pygments, sphinx-doc and libuv</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">...</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/python@3.11/3.11.3:  8121 files, 193.6MB,     built in 11 minutes 24 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/cmake/3.26.4:  3188 files, 50.3MB,            built in 12 minutes 27 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/c-ares/1.19.1: 87 files, 661.4KB,             built in  0 minutes 31 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/icu4c/72.1: 263 files, 78MB,                  built in  3 minutes</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/libnghttp2/1.53.0: 13 files, 720.9KB,         built in  0 minutes 27 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/sphinx-doc/7.0.1:  4019 files, 70.3MB,        built in  5 minutes 55 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/libuv/1.45.0: 47 files, 3MB,                  built in  0 minutes 30 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/usr/local/Cellar/node@18/18.16.0:  2341 files, 56MB,           built in 35 minutes 34 seconds</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
+            <category>macOS</category>
         </item>
     </channel>
 </rss>
