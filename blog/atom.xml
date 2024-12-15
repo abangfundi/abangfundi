@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://abang.fun/blog</id>
-    <title>Alan Bangbang Blog</title>
-    <updated>2023-08-22T00:00:00.000Z</updated>
+    <title>Alan Bang Blog</title>
+    <updated>2023-10-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://abang.fun/blog"/>
-    <subtitle>Alan Bangbang Blog</subtitle>
+    <subtitle>Alan Bang Blog</subtitle>
     <icon>https://abang.fun/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[我的职业生涯]]></title>
-        <id>https://abang.fun/blog/get-things-done</id>
-        <link href="https://abang.fun/blog/get-things-done"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[我想要的是什么]]></title>
+        <id>https://abang.fun/blog/what-I-want-about-repository</id>
+        <link href="https://abang.fun/blog/what-I-want-about-repository"/>
+        <updated>2023-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[心里想的太多了，为什么每次都是在反思自己要做什么，而不是在分享自己做了什么。]]></summary>
+        <content type="html"><![CDATA[<p>心里想的太多了，为什么每次都是在反思自己要做什么，而不是在分享自己做了什么。
+不过还是要反思，要不然怎么进步，虽然现在还是在原地打转，但至少在转，而没有停下来。</p>
+<p>关于知识的整理，一直是杂乱的，不知道记在什么地方。
+其实当年的Gitbook还是挺好的一个工具，在一个git仓库里，只有纯粹的内容文件，没有杂七杂八的支持文件，比如package.json,node_modules等等这些，只需要一个命令就可以进行构建，预览等等，cli是按照到global目录下的；而且还提供了GUI的编辑器，类似现在的Typora吧。当然也有一些不足的地方，比如首页目录的展示也是markdown文件，配置起来有些乏力。</p>
+<p>我想做的是可以是基于文件系统的数据库系统，每个文件夹是一个仓库，也是一个数据库，可以便于用git管理，git可以跟踪到文件内容的变更。纯文本文件为什么乏力呢，文件系统只提供了简单的文件名和文件内容两个属性吧，可能还有文件创建修改日期等，仅此而已，日期还会经常改变，复制到另一台电脑上，日期就变成了当前时间。为了弥补这个不足，现在用的这个Docusaurus和hexo等，都是在markdown文件的头部有一些配置项之类的部分，叫做Front-matter？如下所示，这部分当然是放在文件内容中的。</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">title: Hello World</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">date: 2023/7/13 20:46:25</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>如果用数据库的形式，最简单的方式可能是json/yaml等格式化文本，来保持每个文件的属性，就可以解放正文内容的部分，正文就可以单纯的去写文章了。用这种方式也便于扩展属性，当然它也有自己的不足，比如文档的属性与正文就分离开了，需要去不同的地方编辑，这时就需要一个可视化的编辑器来支持了。就类似，我们使用sql或者可视化IDE来编辑数据库内容一样，底层的数据是如何存储的我们并不关心。</p>
+<ul>
+<li>基于文件系统的数据库系统，便于用git来管理</li>
+<li>文件夹是一个仓库，数据库，根目录会有一个文件或文件夹来表明，例如<code>.git</code>表明这个文件夹是一个git仓库，<code>package.json</code>表明这个文件夹是一个npm模块</li>
+<li>提供工具来管理这个仓库，类似数据库管理系统DBMS，工具同时接口给人来使用</li>
+<li>可视化工具</li>
+</ul>
+<p>想想又复杂了，先从简单的来。</p>]]></content>
         <author>
-            <name>Alan Bangbang</name>
-            <uri>https://github.com/abangfunny</uri>
+            <name>Alan Bang</name>
+            <uri>https://github.com/abangfundi</uri>
         </author>
     </entry>
     <entry>
@@ -23,10 +38,22 @@
         <link href="https://abang.fun/blog/my-software-career"/>
         <updated>2023-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[从事软件开发行业也已经8年的时间，感觉自己一直是个“半吊子”，我去查了一下半吊子的含义，好像第二条和第三条复合我现在的状态。]]></summary>
-        <content type="html"><![CDATA[<p>从事软件开发行业也已经8年的时间，感觉自己一直是个“半吊子”，我去查了一下半吊子的含义，好像第二条和第三条复合我现在的状态。</p><blockquote><p>①不通事理、说话随便、举止不沉着的人；</p><p>②知识不丰富或技术不熟练的人；</p><p>③做事不仔细、有始无终的人</p></blockquote><p>也做了很多项目，也好像没有多少，每种东西和技术都接触了一些，没有达到深度，又换了其他方向。</p><p>工作中用到的技术，web前端，Node.js, 小程序，Flutter，Python，Go，Docker，MySQL，Redis/Memcached，Linux，macOS等</p><p>自己学过的技术可能还有 C/C++/Java/Spring 等</p><p>罗列开来，实锤，自己是个半吊子，都没有一项是自己认为掌握很精通的。</p><p>想学习的东西很多，精力又有限，而且没有规划和耐力，导致一事无成。</p><p>最近在学习极客时间上的《软件工程之美》课程，其中有句话是“做任何事情，都把它当成一个项目来认真对待。”</p><p>从今天开始，认真对待自己的时间，认真理解读的每一本书，认真对待做的每一个项目。</p>]]></content>
+        <content type="html"><![CDATA[<p>从事软件开发行业也已经8年的时间，感觉自己一直是个“半吊子”，我去查了一下半吊子的含义，好像第二条和第三条复合我现在的状态。</p>
+<blockquote>
+<p>①不通事理、说话随便、举止不沉着的人；</p>
+<p>②知识不丰富或技术不熟练的人；</p>
+<p>③做事不仔细、有始无终的人</p>
+</blockquote>
+<p>也做了很多项目，也好像没有多少，每种东西和技术都接触了一些，没有达到深度，又换了其他方向。</p>
+<p>工作中用到的技术，web前端，Node.js, 小程序，Flutter，Python，Go，Docker，MySQL，Redis/Memcached，Linux，macOS等</p>
+<p>自己学过的技术可能还有 C/C++/Java/Spring 等</p>
+<p>罗列开来，实锤，自己是个半吊子，都没有一项是自己认为掌握很精通的。</p>
+<p>想学习的东西很多，精力又有限，而且没有规划和耐力，导致一事无成。</p>
+<p>最近在学习极客时间上的《软件工程之美》课程，其中有句话是“做任何事情，都把它当成一个项目来认真对待。”</p>
+<p>从今天开始，认真对待自己的时间，认真理解读的每一本书，认真对待做的每一个项目。</p>]]></content>
         <author>
-            <name>Alan Bangbang</name>
-            <uri>https://github.com/abangfunny</uri>
+            <name>Alan Bang</name>
+            <uri>https://github.com/abangfundi</uri>
         </author>
     </entry>
 </feed>
