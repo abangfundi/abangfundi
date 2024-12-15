@@ -39,6 +39,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: false,
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
