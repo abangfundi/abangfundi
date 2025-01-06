@@ -12,8 +12,9 @@
         <id>https://abang.fun/blog/2024-11-24-my-computer-story</id>
         <link href="https://abang.fun/blog/2024-11-24-my-computer-story"/>
         <updated>2024-11-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先交代一下我的过往经历，给大家一个参考。]]></summary>
-        <content type="html"><![CDATA[<p>先交代一下我的过往经历，给大家一个参考。</p>
+        <summary type="html"><![CDATA[这篇文章，本来想写一下自己的编程之路，写着写着，感觉自己的编程经历并没有什么好写的，就编程了自己跟计算机的故事了。]]></summary>
+        <content type="html"><![CDATA[<p>这篇文章，本来想写一下自己的编程之路，写着写着，感觉自己的编程经历并没有什么好写的，就编程了自己跟计算机的故事了。</p>
+<p>先交代一下我的过往经历，给大家一个参考。</p>
 <ul>
 <li>1998～2004 小学</li>
 <li>2004～2007 初中</li>
@@ -21,9 +22,6 @@
 <li>2011～2015 大学</li>
 <li>2015～至今 工作，一个被Web后端/Web前端/Flutter App玩弄的全干程序员。</li>
 </ul>
-<blockquote>
-<p>这篇文章，本来想写一下自己的编程之路，写着写着，感觉自己的编程经历并没有什么好写的，就编程了自己跟计算机的故事了。</p>
-</blockquote>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="小学">小学<a href="https://abang.fun/blog/2024-11-24-my-computer-story#%E5%B0%8F%E5%AD%A6" class="hash-link" aria-label="Direct link to 小学" title="Direct link to 小学">​</a></h2>
 <p>小时候比较淘气，爱拆电子设备，手表、收音机、电视机等，但只是看看内部结构，鼓捣一顿，也没研究出个所以然来，甚至去县城参加中考时住在舅妈家，临走的时候舅妈给了我几台表姐用过的随身听、学习机之类的设备，还不忘调侃说“记得你小时候爱拆这些设备，送给你回去拆着玩吧”。</p>
 <p>然后到现在好像对这些东西也只是停留在表面，现在想要研究更深层的东西。</p>
@@ -188,5 +186,29 @@
             <uri>https://github.com/abangfundi</uri>
         </author>
         <category label="macOS" term="macOS"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《UNIX传奇：历史与回忆》读书笔记]]></title>
+        <id>https://abang.fun/blog/2023-04-28-Unix-A-History-and-a-Memoir</id>
+        <link href="https://abang.fun/blog/2023-04-28-Unix-A-History-and-a-Memoir"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[源自贝尔实验室的一群热爱技术的大佬，在开放自由的环境下，创造出的造福人类、具有深远影响意义的产品工具，比如UNIX、C语言；对于后世的影响更是不计其数、罄竹难书，Linux/Android/macOS、C/C++/Java/Go等]]></summary>
+        <content type="html"><![CDATA[<p>源自贝尔实验室的一群热爱技术的大佬，在开放自由的环境下，创造出的造福人类、具有深远影响意义的产品工具，比如UNIX、C语言；对于后世的影响更是不计其数、罄竹难书，Linux/Android/macOS、C/C++/Java/Go等</p>
+<p>我总结以下三点：</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="热爱">热爱<a href="https://abang.fun/blog/2023-04-28-Unix-A-History-and-a-Memoir#%E7%83%AD%E7%88%B1" class="hash-link" aria-label="Direct link to 热爱" title="Direct link to 热爱">​</a></h2>
+<p>这群人都是技术大拿，对技术由衷的热爱</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="自由开放的环境">自由开放的环境<a href="https://abang.fun/blog/2023-04-28-Unix-A-History-and-a-Memoir#%E8%87%AA%E7%94%B1%E5%BC%80%E6%94%BE%E7%9A%84%E7%8E%AF%E5%A2%83" class="hash-link" aria-label="Direct link to 自由开放的环境" title="Direct link to 自由开放的环境">​</a></h2>
+<p>不必为了生计、房贷车贷而奔波，有足够放松的精力去研究技术</p>
+<p>不必为了KPI而费劲心思、为了争夺资源而勾心斗角</p>
+<p>工作目标都是自下而上的，每个人根据自己的爱好去做自己想做的事情，而不是听任领导的安排</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="有限的资源">有限的资源<a href="https://abang.fun/blog/2023-04-28-Unix-A-History-and-a-Memoir#%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E6%BA%90" class="hash-link" aria-label="Direct link to 有限的资源" title="Direct link to 有限的资源">​</a></h2>
+<p>有限的资源是指在申请资源时受到的限制，而不是有求必应</p>
+<p>计算机资源有限的当时，为了跟别人共用计算机，要等到半夜而去编程，或者要跟别人共用，这时就要特别小心的操作，生怕把计算机搞挂。</p>
+<p>而且在有限的资源情况下，写程序要锱铢必较，极致的使用内存，极致的优化算法来提升性能。</p>
+<p>Peace and Love.</p>]]></content>
+        <author>
+            <name>Alan Bang</name>
+            <uri>https://github.com/abangfundi</uri>
+        </author>
     </entry>
 </feed>
