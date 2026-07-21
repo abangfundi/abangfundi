@@ -1,6 +1,6 @@
 # Hello World
 
-- 👋 Hi, I’m @abangfundi
+- 👋 Hi, I’m Alan Bang. @abangcc
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C language and Operating System
 - 💞️ I’m looking to collaborate on ...
